@@ -1,0 +1,14 @@
+table {
+    width: 50%;
+    height: 600px;
+    border: 3px blue;
+    margin-left: 25%;
+}
+
+.Black {
+    background-color: aquamarine;
+}
+
+.White {
+    background-color: brown;
+}
